@@ -6,6 +6,6 @@ The password for entering in Admin Mode is 17102004;
 
 Created for the Algorithmic Logic course in the first semester of the Bachelor's in Computer Science at PUCPR - I chose to use matrix operations that are called by methods in classes. 
 
-You can read what was asked in the pdf below: 
+You can read the concept about this project in this PDF file, but the language written here is Portuguese: 
 https://drive.google.com/file/d/18-leBXMg5ZrMaZDBI2ujO5u4vRyuJqxL/view?usp=sharing
 
