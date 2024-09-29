@@ -1,5 +1,5 @@
 
-# Vending Machine
+# Vending Machine 🥤🤖
 
 This project emulates a vending machine using Python, implementing functions and matrix concepts to manage the products and transactions.
 This project was created for the **Algorithmic Logic** course during the first semester of the **Bachelor's in Computer Science at PUCPR**. It leverages matrix operations and uses methods within classes to manage the vending machine's functionalities.
