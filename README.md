@@ -42,7 +42,7 @@ This project was created for the **Algorithmic Logic** course during the first s
 
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/tuchanski/vending-machine.git>
+    git clone https://github.com/tuchanski/vending-machine.git
     ```
 2. Navigate to the project directory and run the Python file:
     ```bash
