@@ -20,6 +20,8 @@ def admin_mode():
             if admin_mode == 0:
                 break
             handle_admin_actions(admin_mode, admin)
+    else:
+        print("\nAccess denied.")
 
 def handle_admin_actions(admin_mode, admin):
     if admin_mode == 1:  # Add new products

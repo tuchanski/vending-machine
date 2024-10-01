@@ -31,4 +31,4 @@ notes = [
 
 menu = Menu()
 database = Database()
-ADMIN_PASSWORD = int(open("config/password.txt", "r").read())
+ADMIN_PASSWORD = int(open("utilities/password.txt", "r").read())
